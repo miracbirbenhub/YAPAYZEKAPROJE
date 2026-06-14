@@ -1,0 +1,3 @@
+Giris metni (ham): The premium price is a bit high, but the features are okay.
+Lemmatized: premium price bit high feature okay
+Stemmed:    premium price bit high featur okay
