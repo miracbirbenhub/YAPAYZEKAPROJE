@@ -1,0 +1,81 @@
+﻿model,rank,doc_index,cosine,anlamsal_1_5,yorum_metni
+word2vec_lemmatized_cbow_win2_dim100,1,103,0.9998,5,"Premium features are good, but the price could be lower."
+word2vec_lemmatized_cbow_win2_dim100,2,3,0.9998,5,"The price of premium is too high, could be better."
+word2vec_lemmatized_cbow_win2_dim100,3,18,0.9998,5,The premium features are really helpful and the price is fair.
+word2vec_lemmatized_cbow_win2_dim100,4,139,0.9997,4,"The premium features are helpful, but some are a bit buggy. Needs more polishing."
+word2vec_lemmatized_cbow_win2_dim100,5,316,0.9997,5,"The new premium tools are helpful, but the subscription is a bit overpriced."
+word2vec_lemmatized_skipgram_win2_dim100,1,103,0.9995,5,"Premium features are good, but the price could be lower."
+word2vec_lemmatized_skipgram_win2_dim100,2,18,0.9991,5,The premium features are really helpful and the price is fair.
+word2vec_lemmatized_skipgram_win2_dim100,3,309,0.9989,5,"Happy to pay for premium, the additional features are fantastic."
+word2vec_lemmatized_skipgram_win2_dim100,4,139,0.9988,4,"The premium features are helpful, but some are a bit buggy. Needs more polishing."
+word2vec_lemmatized_skipgram_win2_dim100,5,94,0.9987,5,"I'm happy with the premium features, they are definitely worth it."
+word2vec_lemmatized_cbow_win4_dim100,1,103,0.9998,5,"Premium features are good, but the price could be lower."
+word2vec_lemmatized_cbow_win4_dim100,2,3,0.9998,5,"The price of premium is too high, could be better."
+word2vec_lemmatized_cbow_win4_dim100,3,18,0.9998,5,The premium features are really helpful and the price is fair.
+word2vec_lemmatized_cbow_win4_dim100,4,139,0.9997,4,"The premium features are helpful, but some are a bit buggy. Needs more polishing."
+word2vec_lemmatized_cbow_win4_dim100,5,172,0.9997,4,"The premium features are nice, but too pricey for my taste."
+word2vec_lemmatized_skipgram_win4_dim100,1,103,0.9983,5,"Premium features are good, but the price could be lower."
+word2vec_lemmatized_skipgram_win4_dim100,2,18,0.9972,5,The premium features are really helpful and the price is fair.
+word2vec_lemmatized_skipgram_win4_dim100,3,309,0.9971,5,"Happy to pay for premium, the additional features are fantastic."
+word2vec_lemmatized_skipgram_win4_dim100,4,172,0.9964,4,"The premium features are nice, but too pricey for my taste."
+word2vec_lemmatized_skipgram_win4_dim100,5,130,0.9963,4,"I enjoy the premium features, it's a good investment for travelers."
+word2vec_lemmatized_cbow_win2_dim300,1,103,0.9999,5,"Premium features are good, but the price could be lower."
+word2vec_lemmatized_cbow_win2_dim300,2,18,0.9999,5,The premium features are really helpful and the price is fair.
+word2vec_lemmatized_cbow_win2_dim300,3,3,0.9999,5,"The price of premium is too high, could be better."
+word2vec_lemmatized_cbow_win2_dim300,4,139,0.9999,4,"The premium features are helpful, but some are a bit buggy. Needs more polishing."
+word2vec_lemmatized_cbow_win2_dim300,5,125,0.9999,5,"Premium unlocks great features, definitely worth the upgrade."
+word2vec_lemmatized_skipgram_win2_dim300,1,103,0.9998,5,"Premium features are good, but the price could be lower."
+word2vec_lemmatized_skipgram_win2_dim300,2,18,0.9997,5,The premium features are really helpful and the price is fair.
+word2vec_lemmatized_skipgram_win2_dim300,3,309,0.9996,5,"Happy to pay for premium, the additional features are fantastic."
+word2vec_lemmatized_skipgram_win2_dim300,4,130,0.9996,4,"I enjoy the premium features, it's a good investment for travelers."
+word2vec_lemmatized_skipgram_win2_dim300,5,139,0.9995,4,"The premium features are helpful, but some are a bit buggy. Needs more polishing."
+word2vec_lemmatized_cbow_win4_dim300,1,103,0.9999,5,"Premium features are good, but the price could be lower."
+word2vec_lemmatized_cbow_win4_dim300,2,18,0.9999,5,The premium features are really helpful and the price is fair.
+word2vec_lemmatized_cbow_win4_dim300,3,3,0.9999,5,"The price of premium is too high, could be better."
+word2vec_lemmatized_cbow_win4_dim300,4,87,0.9999,4,Some premium features are not as useful as advertised.
+word2vec_lemmatized_cbow_win4_dim300,5,139,0.9999,4,"The premium features are helpful, but some are a bit buggy. Needs more polishing."
+word2vec_lemmatized_skipgram_win4_dim300,1,103,0.9992,5,"Premium features are good, but the price could be lower."
+word2vec_lemmatized_skipgram_win4_dim300,2,130,0.999,4,"I enjoy the premium features, it's a good investment for travelers."
+word2vec_lemmatized_skipgram_win4_dim300,3,18,0.999,5,The premium features are really helpful and the price is fair.
+word2vec_lemmatized_skipgram_win4_dim300,4,309,0.999,5,"Happy to pay for premium, the additional features are fantastic."
+word2vec_lemmatized_skipgram_win4_dim300,5,23,0.9988,5,"Great value for money, the premium features are really useful."
+word2vec_stemmed_cbow_win2_dim100,1,103,0.9998,5,"Premium features are good, but the price could be lower."
+word2vec_stemmed_cbow_win2_dim100,2,18,0.9998,5,The premium features are really helpful and the price is fair.
+word2vec_stemmed_cbow_win2_dim100,3,3,0.9997,5,"The price of premium is too high, could be better."
+word2vec_stemmed_cbow_win2_dim100,4,125,0.9997,5,"Premium unlocks great features, definitely worth the upgrade."
+word2vec_stemmed_cbow_win2_dim100,5,139,0.9997,4,"The premium features are helpful, but some are a bit buggy. Needs more polishing."
+word2vec_stemmed_skipgram_win2_dim100,1,103,0.9995,5,"Premium features are good, but the price could be lower."
+word2vec_stemmed_skipgram_win2_dim100,2,18,0.999,5,The premium features are really helpful and the price is fair.
+word2vec_stemmed_skipgram_win2_dim100,3,125,0.9988,5,"Premium unlocks great features, definitely worth the upgrade."
+word2vec_stemmed_skipgram_win2_dim100,4,172,0.9986,4,"The premium features are nice, but too pricey for my taste."
+word2vec_stemmed_skipgram_win2_dim100,5,55,0.9986,5,"Great value for money with premium, but some features are still underdeveloped."
+word2vec_stemmed_cbow_win4_dim100,1,103,0.9998,5,"Premium features are good, but the price could be lower."
+word2vec_stemmed_cbow_win4_dim100,2,18,0.9998,5,The premium features are really helpful and the price is fair.
+word2vec_stemmed_cbow_win4_dim100,3,3,0.9997,5,"The price of premium is too high, could be better."
+word2vec_stemmed_cbow_win4_dim100,4,125,0.9997,5,"Premium unlocks great features, definitely worth the upgrade."
+word2vec_stemmed_cbow_win4_dim100,5,172,0.9997,4,"The premium features are nice, but too pricey for my taste."
+word2vec_stemmed_skipgram_win4_dim100,1,103,0.9984,5,"Premium features are good, but the price could be lower."
+word2vec_stemmed_skipgram_win4_dim100,2,18,0.9977,5,The premium features are really helpful and the price is fair.
+word2vec_stemmed_skipgram_win4_dim100,3,172,0.9966,4,"The premium features are nice, but too pricey for my taste."
+word2vec_stemmed_skipgram_win4_dim100,4,316,0.9962,4,"The new premium tools are helpful, but the subscription is a bit overpriced."
+word2vec_stemmed_skipgram_win4_dim100,5,23,0.9962,5,"Great value for money, the premium features are really useful."
+word2vec_stemmed_cbow_win2_dim300,1,103,0.9999,5,"Premium features are good, but the price could be lower."
+word2vec_stemmed_cbow_win2_dim300,2,3,0.9999,5,"The price of premium is too high, could be better."
+word2vec_stemmed_cbow_win2_dim300,3,18,0.9999,5,The premium features are really helpful and the price is fair.
+word2vec_stemmed_cbow_win2_dim300,4,87,0.9999,4,Some premium features are not as useful as advertised.
+word2vec_stemmed_cbow_win2_dim300,5,139,0.9999,4,"The premium features are helpful, but some are a bit buggy. Needs more polishing."
+word2vec_stemmed_skipgram_win2_dim300,1,103,0.9998,5,"Premium features are good, but the price could be lower."
+word2vec_stemmed_skipgram_win2_dim300,2,18,0.9997,5,The premium features are really helpful and the price is fair.
+word2vec_stemmed_skipgram_win2_dim300,3,316,0.9996,4,"The new premium tools are helpful, but the subscription is a bit overpriced."
+word2vec_stemmed_skipgram_win2_dim300,4,309,0.9995,5,"Happy to pay for premium, the additional features are fantastic."
+word2vec_stemmed_skipgram_win2_dim300,5,172,0.9994,4,"The premium features are nice, but too pricey for my taste."
+word2vec_stemmed_cbow_win4_dim300,1,103,0.9999,5,"Premium features are good, but the price could be lower."
+word2vec_stemmed_cbow_win4_dim300,2,18,0.9999,5,The premium features are really helpful and the price is fair.
+word2vec_stemmed_cbow_win4_dim300,3,3,0.9999,5,"The price of premium is too high, could be better."
+word2vec_stemmed_cbow_win4_dim300,4,87,0.9999,4,Some premium features are not as useful as advertised.
+word2vec_stemmed_cbow_win4_dim300,5,172,0.9999,4,"The premium features are nice, but too pricey for my taste."
+word2vec_stemmed_skipgram_win4_dim300,1,103,0.9992,5,"Premium features are good, but the price could be lower."
+word2vec_stemmed_skipgram_win4_dim300,2,18,0.9991,5,The premium features are really helpful and the price is fair.
+word2vec_stemmed_skipgram_win4_dim300,3,316,0.999,4,"The new premium tools are helpful, but the subscription is a bit overpriced."
+word2vec_stemmed_skipgram_win4_dim300,4,309,0.9989,5,"Happy to pay for premium, the additional features are fantastic."
+word2vec_stemmed_skipgram_win4_dim300,5,172,0.9984,4,"The premium features are nice, but too pricey for my taste."
